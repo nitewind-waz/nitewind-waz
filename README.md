@@ -2,7 +2,8 @@
 <h3 align="center">Future developer with a love for algorithms and coffee.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+Nitewind+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome%20to%20Nitewind's%20GitHub%20profile!" alt="Typing SVG" />
+
 </p>
 
 ---
