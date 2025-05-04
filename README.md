@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nitewind</h1>
-<h3 align="center">[Satu kalimat pendek tentang kamu, misal: A passionate frontend developer]</h3>
+<h3 align="center">Future developer with a love for algorithms and coffee.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+Nitewind+GitHub+profile!" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently studying on D3 Informatics Engineering - Polytechnic State of Bandung
 - 🌱 I’m currently learning C Language
-- 💬 Ask me about --
+- 💬 Ask me about Dark Souls hehe
 - 📫 How to reach me: @fawwznaufl on ig
 
 ---
@@ -19,7 +19,7 @@
 📚 **Languages and Tools:**
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <!-- Tambahkan icon lainnya sesuai skill kamu -->
